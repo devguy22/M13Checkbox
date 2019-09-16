@@ -8,7 +8,8 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "M13Checkbox"
+            name: "M13Checkbox",
+            path: "Sources"
         ),
     ]
 )
